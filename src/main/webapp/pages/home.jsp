@@ -16,7 +16,7 @@
 	</form>
 	
 	<form action="getEmployee">
-		Employee ID : <input type="text" name="code">
+		Employee ID is : <input type="text" name="code">
 	<input type="submit">
 	</form>
 	
